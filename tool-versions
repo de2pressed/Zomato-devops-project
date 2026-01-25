@@ -1,0 +1,6 @@
+Java: 21
+Node.js: 25
+Docker: 29.1.5,
+Jenkins: 2.541.1
+OS: Ubuntu 24.04
+SonarQube: Docker (LTS Community)
