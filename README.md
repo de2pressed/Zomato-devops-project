@@ -162,26 +162,6 @@ zomato-devsecops-pipeline/
 
 ---
 
-## Current Status
-
-* CI/CD pipeline fully implemented
-* Security scanning integrated into build lifecycle
-* Application deployed using Docker on AWS EC2
-* Monitoring implemented using Prometheus and Grafana
-
-Planned extensions (not yet implemented):
-
-* Kubernetes (EKS) deployment
-* GitOps-based deployment using Argo CD
-
----
-
 ## Disclaimer
 
 This project was inspired by a guided tutorial; however, all steps were **independently executed, customized, debugged, and documented**, including tool version upgrades and infrastructure configuration decisions.
-
----
-
-## Author
-
-Jayant Dahiya
