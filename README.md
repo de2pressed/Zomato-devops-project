@@ -140,13 +140,19 @@ Unlike the original tutorial baseline, newer runtime versions were intentionally
 ## Project Structure
 
 ```
-zomato-devsecops-pipeline/
-├── app/                 # Node.js application source code
-├── docker/              # Dockerfile and container-related configs
-├── jenkins/             # Jenkinsfile (CI/CD pipeline as code)
-├── monitoring/          # Prometheus and Node Exporter configurations
-├── docs/                # Tool versions and documentation
-└── README.md
+Zomato-devops-project/
+├── Monitoring Backup
+├── public
+├── src
+├── .gitignore
+├── Dockerfile
+├── README.md
+├── Recreation.md
+├── jenkinsfile
+├── package-lock.json
+├── package.json
+└── tool-versions
+
 ```
 
 ---
